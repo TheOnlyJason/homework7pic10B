@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		D01A789F2BA1508800B3A58E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D01A789E2BA1508800B3A58E /* main.cpp */; };
+		D01A78A92BA1526200B3A58E /* main (2).cpp in Sources */ = {isa = PBXBuildFile; fileRef = D01A78A52BA1526200B3A58E /* main (2).cpp */; };
+		D01A78AA2BA1526200B3A58E /* polygons.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D01A78A82BA1526200B3A58E /* polygons.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		D01A789B2BA1508800B3A58E /* homework7pic10B */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homework7pic10B; sourceTree = BUILT_PRODUCTS_DIR; };
 		D01A789E2BA1508800B3A58E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D01A78A52BA1526200B3A58E /* main (2).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "main (2).cpp"; path = "../../../../Downloads/main (2).cpp"; sourceTree = "<group>"; };
+		D01A78A62BA1526200B3A58E /* HW7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = HW7.pdf; path = ../../../../Downloads/HW7.pdf; sourceTree = "<group>"; };
+		D01A78A72BA1526200B3A58E /* polygons.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = polygons.hpp; path = ../../../../Downloads/polygons.hpp; sourceTree = "<group>"; };
+		D01A78A82BA1526200B3A58E /* polygons.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = polygons.cpp; path = ../../../../Downloads/polygons.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,10 @@
 			isa = PBXGroup;
 			children = (
 				D01A789E2BA1508800B3A58E /* main.cpp */,
+				D01A78A62BA1526200B3A58E /* HW7.pdf */,
+				D01A78A52BA1526200B3A58E /* main (2).cpp */,
+				D01A78A82BA1526200B3A58E /* polygons.cpp */,
+				D01A78A72BA1526200B3A58E /* polygons.hpp */,
 			);
 			path = homework7pic10B;
 			sourceTree = "<group>";
@@ -120,6 +130,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D01A789F2BA1508800B3A58E /* main.cpp in Sources */,
+				D01A78AA2BA1526200B3A58E /* polygons.cpp in Sources */,
+				D01A78A92BA1526200B3A58E /* main (2).cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "f73121068a39b48ba3708ed13990c0eda7175edada352e02b7a274aa3308ce53"
+    }
+  ],
+  "containerPath" : "/Users/jasondai/Desktop/Xcode comp10B/homework7pic10B/homework7pic10B.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jasondai/Desktop/Xcode comp10B/homework7pic10B/DerivedData/homework7pic10B/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jasondai/Desktop/Xcode comp10B/homework7pic10B/DerivedData/homework7pic10B/Build/Products",
+      "derivedDataPath" : "/Users/jasondai/Desktop/Xcode comp10B/homework7pic10B/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jasondai/Desktop/Xcode comp10B/homework7pic10B/DerivedData/homework7pic10B/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jasondai/Desktop/Xcode comp10B/homework7pic10B/DerivedData/homework7pic10B/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/jasondai/Desktop/Xcode comp10B/homework7pic10B/DerivedData/homework7pic10B/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
